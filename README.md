@@ -78,8 +78,6 @@ Up/Down Counter (CTUD): The output should activate when the count reaches the pr
 
 <img width="1907" height="1018" alt="image" src="https://github.com/user-attachments/assets/e1f5bd54-1ed4-496d-9f72-f5e2763af280" />
 
-<img width="1919" height="1017" alt="image" src="https://github.com/user-attachments/assets/6f1ddb25-9154-4e76-a6bf-d6915a49a7f6" />
-
 
 ### Results:
 The ladder logic programs for Up Counter (CTU), Down Counter (CTD), and Up/Down Counter (CTUD) were successfully implemented and tested. The outputs behaved as expected, indicating correct counting operations. The experiment demonstrated how counters are essential in automation for counting events and managing process sequences.
