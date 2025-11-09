@@ -67,15 +67,50 @@ Down Counter (CTD): The output should activate when the count reaches zero.
 Up/Down Counter (CTUD): The output should activate when the count reaches the preset value or zero, depending on the inputs.
 
 ### Simulation Screenshots:
-<img width="1919" height="1024" alt="Screenshot 2025-10-09 180859" src="https://github.com/user-attachments/assets/00f2c836-5b68-4b28-8b15-41915a0a110d" />
-<img width="1919" height="1027" alt="Screenshot 2025-10-09 180920" src="https://github.com/user-attachments/assets/ca7b6916-e75c-4dd6-b967-c0b15f2ba66b" />
-<img width="1919" height="1017" alt="Screenshot 2025-10-09 181132" src="https://github.com/user-attachments/assets/b233e776-1698-44a5-8497-111788972995" />
-<img width="1919" height="1027" alt="Screenshot 2025-10-09 181159" src="https://github.com/user-attachments/assets/6affbe96-c77c-45a6-bb31-3f5f39a3df99" />
-<img width="1917" height="1025" alt="Screenshot 2025-09-25 093220" src="https://github.com/user-attachments/assets/b8d048d2-2a7a-4394-8e8b-6e3357866ab6" />
-<img width="1919" height="1029" alt="Screenshot 2025-10-09 181309" src="https://github.com/user-attachments/assets/09cfce8c-b895-436b-8cf7-b31e091c7837" />
-<img width="1919" height="1020" alt="Screenshot 2025-10-09 181331" src="https://github.com/user-attachments/assets/a0d24b5b-8c1f-48fb-852c-ca4ccd07a819" />
-<img width="1917" height="1016" alt="Screenshot 2025-09-25 093441" src="https://github.com/user-attachments/assets/0a888fef-e842-4614-afaa-536cce284d6f" />
 
+## COUNTER
+<img width="1919" height="1014" alt="image" src="https://github.com/user-attachments/assets/3d792162-c3b1-4d7b-aea1-05f909f81393" />
+
+<img width="1919" height="1023" alt="image" src="https://github.com/user-attachments/assets/588ed7cd-a508-4c4c-a655-96773766ba72" />
+
+<img width="1919" height="1018" alt="image" src="https://github.com/user-attachments/assets/bed34e51-b255-4f28-8516-d1fc82b982fe" />
+
+<img width="1919" height="1018" alt="image" src="https://github.com/user-attachments/assets/8ee0f09a-cddf-42fd-b5fe-a84979436f33" />
+
+<img width="1907" height="1018" alt="image" src="https://github.com/user-attachments/assets/1139d689-53b0-42cb-b9d7-8710a15b1624" />
+
+<img width="1919" height="1017" alt="image" src="https://github.com/user-attachments/assets/adfad714-e0a3-4c13-a8a6-6bf65e28a857" />
+
+
+## UP COUNTER
+
+<img width="1919" height="1018" alt="image" src="https://github.com/user-attachments/assets/8d7cb89b-ea79-4418-b2c1-c55954c6da89" />
+
+<img width="1500" height="250" alt="image" src="https://github.com/user-attachments/assets/4e36844f-8339-4955-a8ac-546ac911c502" />
+
+## DOWN COUNTER:
+
+<img width="1463" height="647" alt="image" src="https://github.com/user-attachments/assets/2ef0e879-0d42-49af-81aa-2f81f6bfbffd" />
+
+<img width="1351" height="375" alt="image" src="https://github.com/user-attachments/assets/6fbc8194-a41c-4cbb-82e6-4f4c3c139f63" />
+
+<img width="1504" height="339" alt="image" src="https://github.com/user-attachments/assets/d6d9303e-a63d-4457-a407-f3159c220e11" />
+
+<img width="1504" height="339" alt="image" src="https://github.com/user-attachments/assets/a84c6fbc-33cb-4a33-87e1-2c216595bf66" />
+
+<img width="1509" height="312" alt="image" src="https://github.com/user-attachments/assets/692a7ec8-21c6-4ef9-9f02-cfd1f190732c" />
+
+## UP/DOWN COUNTER
+
+<img width="1606" height="651" alt="image" src="https://github.com/user-attachments/assets/d709a71e-1f57-421b-921d-d08d443d4084" />
+
+<img width="1406" height="548" alt="image" src="https://github.com/user-attachments/assets/50413fbe-d037-4f90-9aac-f70efefd1830" />
+
+<img width="1505" height="220" alt="image" src="https://github.com/user-attachments/assets/1b52c3a6-1ea9-4968-87da-4373b857fc5e" />
+
+<img width="1503" height="193" alt="image" src="https://github.com/user-attachments/assets/7005b4cd-5008-424c-9d93-f4f19ca5704c" />
+
+<img width="1919" height="1018" alt="image" src="https://github.com/user-attachments/assets/7e9577e4-117e-4725-b834-5148c71aef5e" />
 
 ### Results:
 The ladder logic programs for Up Counter (CTU), Down Counter (CTD), and Up/Down Counter (CTUD) were successfully implemented and tested. The outputs behaved as expected, indicating correct counting operations. The experiment demonstrated how counters are essential in automation for counting events and managing process sequences.
